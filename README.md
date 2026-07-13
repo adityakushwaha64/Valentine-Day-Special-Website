@@ -30,6 +30,8 @@ Valentine-Day-Special-Website/
 
 ## 🎯 Purpose
 This project was created to practice front-end web development, animations, and interactive design using a single HTML file.
+# The link of this Project
+### https://adityakushwaha64.github.io/Valentine-Day-Special-Website/
 
 ## 👨‍💻 Author
 **Aditya Kushwaha**
